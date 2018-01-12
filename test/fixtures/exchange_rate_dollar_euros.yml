@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# This model initially had no columns defined. If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+one:
+  date: 2018-01-01
+  rate: 1.135
+two:
+  date: 2018-01-02
+  rate: 1.324
+three:
+  date: 2018-01-03
+  rate: 1.676

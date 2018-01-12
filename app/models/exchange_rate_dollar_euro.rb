@@ -1,0 +1,3 @@
+class ExchangeRateDollarEuro < ApplicationRecord
+
+end
